@@ -8,4 +8,11 @@ This is a starter template for landing pages.
 
 [GitHub repository](https://github.com/clkandmortar/starter-template/)
 
-### Rollout Checklist
+### Roll-out Checklist
+- [ ] Clone the repo
+- [ ] Duplicate `index.html` for each page
+- [ ] Add page content
+- [ ] Add current year,  site name & URL to footer link
+- [ ] Fill out `meta` & `title` tag values
+- [ ] Populate `robots.txt`
+- [ ] Populate `sitemap.xml`
