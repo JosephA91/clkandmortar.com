@@ -7,6 +7,7 @@ This is a starter template for landing pages.
 - FontAwesome `v4.7.0` (https://jquery.com/)
 
 [GitHub repository](https://github.com/clkandmortar/starter-template/)
+[Live Demo](http://starter-template.clkandmortar.com/)
 
 ### Roll-out Checklist
 - [ ] Clone the repo
